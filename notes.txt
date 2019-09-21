@@ -1,0 +1,9 @@
+https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb
+
+npm init
+npm install --save express body-parser mongoose
+
+mkdir controllers
+mkdir models
+mkdir routes
+mkdir views
